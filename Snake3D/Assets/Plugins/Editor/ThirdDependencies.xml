@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<dependencies>
+  <iosPods>
+    <iosPod name="WechatOpenSDK"/>
+    <iosPod name="UMCCommon"/>
+    <iosPod name="AnyThinkiOS/AnyThinkAdmobAdapter" version="5.6.8"/>
+    <iosPod name="Google-Mobile-Ads-SDK" version="7.64.0"/>
+    <iosPod name="PersonalizedAdConsent"/>
+  </iosPods>
+</dependencies>
